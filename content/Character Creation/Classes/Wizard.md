@@ -7,14 +7,13 @@ Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
 
-
 Path of the Mage: Wizard
 
 Adapted from the default Wizard in 5e
 
   
 
-## Wizard Leveling Table [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=5)
+## Wizard Leveling Table
 
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -41,17 +40,17 @@ Adapted from the default Wizard in 5e
 |19th|+6|Ability Score Improvement|5|4|3|3|3|3|2|1|1|1|
 |20th|+6|Signature Spell|5|4|3|3|3|3|2|2|1|1|
 
-#### Quick Build [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=6)
+#### Quick Build
 
 You can make a wizard quickly by following these suggestions. First. Intelligence should be your highest ability score, followed by Constitution or Dexterity.
 
 If you plan to join the School of Influencing, make Charisma your next—best score. Second, choose the sage background. Third, choose the mage hand, light, and ray of frost cantrips, along with the following 1st—level spells for your spellbook: burning hands, charm person, feather fall, mage armor, magic missile, and sleep.
 
-## Class Features [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=7)
+## Class Features
 
-### Baseline [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=8)
+### Baseline
 
-#### Hit Points [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=9)
+#### Hit Points
 
 Hit Dice: 1d6 per wizard level
 
@@ -59,7 +58,7 @@ Hit Points at 1st Level: 6 + your Constitution modifier
 
 Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per Wizard level after 1st
 
-#### Proficiencies [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=10)
+#### Proficiencies
 
 Armor: None
 
@@ -71,10 +70,9 @@ Saving Throws: Intelligence, Wisdom
 
 Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
+#### Equipment
 
-#### Equipment [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=11)
-
-You start with the following equipment. in addition to the equipment granted by your background:
+You start with the following equipment. In addition to the equipment granted by your background:
 
 - a dagger
     
@@ -85,17 +83,17 @@ You start with the following equipment. in addition to the equipment granted by 
 - A spellbook
     
 
-### Spellcasting [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=12)
+### Spellcasting
 
-As a student of arcane magic. you have a spellbook containing spells that show the first glimmerings of your true power.
+As a student of arcane magic. You have a spellbook containing spells that show the first glimmerings of your true power.
 
-Cantrips [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=13)
+Cantrips
 
 At 1st level, you know three cantrips of your choice from any chosen school. You learn additional cantrips of your specialization at higher levels, as shown in the Cantrips Known column of the Wizard table.
 
-#### Spellbook [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=14)
+#### Spellbook
 
-At 1st level. you have a spellbook containing six 1st—level wizard spells of your choice.
+At 1st level. You have a spellbook containing six 1st—level wizard spells of your choice.
 
 The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard’s chest, for example, or in a dusty tome in an ancient library.
 
@@ -111,41 +109,41 @@ If you lose your spellbook, you can use the same procedure to transcribe the spe
 
 The Book’s Appearance. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 
-#### Casting Spells [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=15)
+#### Casting Spells
 
-The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells. you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. Wizards in Tamriel do not need to prepare spells.
+The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells. You must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. Wizards in Tamriel do not need to prepare spells.
 
-#### Spellcasting Ability [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=16)
+#### Spellcasting Ability
 
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability.
 
-In addition. you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+In addition. You use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-#### Learning Spells of 1st Level and Higher [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=19)
+#### Learning Spells of 1st Level and Higher
 
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots. as shown on the Wizard table. On your adventures. you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
+Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots. As shown on the Wizard table. On your adventures. You might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
-### Arcane Recovery [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=20)
+### Arcane Recovery
 
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
 For example, if you’re a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st—level spell slots.
 
-### School of Magic [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=21)
+### School of Magic
 
 When you reach 2nd level, you choose a school of magic to specialize in, shaping your practice of magic. Refer to the schools of magic section for rules.
 
-### Ability Score Improvement [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=22)
+### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-### Spell Mastery [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=23)
+### Spell Mastery
 
 At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st—level spell and a 2nd—level spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
-### Signature Spells [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=24)
+### Signature Spells
 
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd—level wizard spells in your spellbook as your signature spells. You can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 

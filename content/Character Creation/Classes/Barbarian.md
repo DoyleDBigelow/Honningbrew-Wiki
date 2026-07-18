@@ -6,7 +6,6 @@ Saving Throws: Strength, Constitution
 Armor Proficiencies: Light, Medium, Shields
 Weapon Proficiencies: Simple weapons, Martial Weapons
 
-
 Path of the Warrior: Barbarian
 
 Adapted from the default 5e barbarian.
@@ -47,10 +46,7 @@ You start with the following Equipment, in addition to the Equipment granted by 
 - (a) two handaxes or (b) any simple weapon
 - four javelins
 
-
   
-
-
 
 | Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
 | ----- | ----------------- | ----------------------------- | --------- | ----------- |
@@ -254,7 +250,7 @@ Known as Okbakrat in the times of the Ancient Nords, battleragers are followers 
 
   
 
-Battlerager Armor: You gain the ability to use spiked armor (see the "Spiked Armor" sidebar) as a weapon.While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage.
+Battlerager Armor: You gain the ability to use spiked armor (see the "Spiked Armor" sidebar) as a weapon. While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage.
 
   
 

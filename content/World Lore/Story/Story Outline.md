@@ -1,5 +1,5 @@
 - [[Thalmor|Thalmor]] seek to undo Mundas by destroying the towers.
-- [[Party|party]] gets involved but must fail (i.e. while protecting 1 tower another is destroyed and is enough to start destabilizing mundas)
+- [[Party|party]] gets involved but must fail (i.e. While protecting 1 tower another is destroyed and is enough to start destabilizing mundas)
 - after saving [[Adamantine Tower|adamantine tower]] [[Psijic Order|psijic order]] appears to [[Party|party]] asking for their help
 - the [[Psijic Order|psijic order]] have a plan to restore Mundas via drastic measures and extremely powerful artifacts. The goal is to restore the full power of the [[Aedra|Aedra]] and then the towers will no longer be needed to maintain Mundas as the gods can do it directly.
 	[[Psijic Order|Psijic order]] may have eye and staff after Skyrim

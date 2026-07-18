@@ -28,7 +28,6 @@ Players bargain with Hermaeus Mora, trading an Elder Scroll for the location/pat
 Deep within the City, the players find the Clockwork Heart along with Sunder and Keening.
 **==Sunder and Keening last seen in skyrim==**
 
-
 # Act 3: The Siege of Adamantine (The False Climax)
 ### The Holdout
 The Thalmor move on the Adamantine Tower. The Psijics tell the players: "We are installing the Heart. You must hold the Tower, or the world unravels before the reboot is ready."

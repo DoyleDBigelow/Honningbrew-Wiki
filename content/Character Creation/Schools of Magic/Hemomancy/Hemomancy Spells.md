@@ -37,4 +37,3 @@
 |9th|Tyranny of the Sun|For one hour, you blot out the sun itself with a cloud of blood, causing mass hysteria in the area. You no longer have any of the weaknesses of vampirism and you are invulnerable to cold damage. This spell can only be cast outside.|
 |9th|Blood of the Earth|You kill all life around you, healing you and your party to full HP. This spell can only be cast outside.|
 
-

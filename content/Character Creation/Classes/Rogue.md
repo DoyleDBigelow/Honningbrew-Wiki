@@ -7,14 +7,13 @@ Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
 
-
 Path of the Thief: Rogue
 
 Adapted from default rogue class
 
   
 
-## Class Features [Edit](http://engl393-dnd5th.wikia.com/wiki/Rogue?action=edit&section=1)
+## Class Features
 
 Description:  A stealthy trickster, this agent uses stealth and smarts to overcome challenges.
 
@@ -32,7 +31,7 @@ Hit Points (Level 1): 8+ Constitution modifier
 
 Post-Level 1: 1d8 (or 5)+Constitution modifier per level above 1
 
-## Leveling Up [Edit](http://engl393-dnd5th.wikia.com/wiki/Rogue?action=edit&section=2)
+## Leveling Up
 
 |   |   |   |   |
 |---|---|---|---|
@@ -58,7 +57,7 @@ Post-Level 1: 1d8 (or 5)+Constitution modifier per level above 1
 |19|+6|10d6|Ability Score Improvement|
 |20|+6|10d6|Stroke of Luck|
 
-## Skills [Edit](http://engl393-dnd5th.wikia.com/wiki/Rogue?action=edit&section=3)
+## Skills
 
 Proficiency Bonus:  Your proficiency bonus is +2. Every four levels, your bonus increases by one point.
 
@@ -94,11 +93,11 @@ Stroke of Luck: At 20th level, you have an uncanny knack for succeeding when you
 
 Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
-## Roguish Archetypes [Edit](http://engl393-dnd5th.wikia.com/wiki/Rogue?action=edit&section=4)
+## Roguish Archetypes
 
 Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques. Choose between Assassin, Thief and Arcane Trickster.
 
-### Assassin [Edit](http://engl393-dnd5th.wikia.com/wiki/Rogue?action=edit&section=5)
+### Assassin
 
 You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.
 
@@ -112,7 +111,7 @@ Impostor: At the 13th level, you gain the ability to unerringly mimic another pe
 
 Death strike: Starting at the 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus.) On a failed save, double the damage of your attack against the creature.
 
-### Thief [Edit](http://engl393-dnd5th.wikia.com/wiki/Rogue?action=edit&section=6)
+### Thief
 
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
 
@@ -126,7 +125,7 @@ Use Magic Device: By 13th level, you have learned enough about the workings of m
 
 Thief's Reflexes: When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
 
-### Arcane Trickster [Edit](http://engl393-dnd5th.wikia.com/wiki/Rogue?action=edit&section=7)
+### Arcane Trickster
 
 Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
 
@@ -163,7 +162,7 @@ Immediately after a creature casts a spell that targets you or includes you in i
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
-### Swashbuckler[Edit](http://engl393-dnd5th.wikia.com/wiki/Rogue?action=edit&section=8)
+### Swashbuckler
 
 You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype. A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.
 

@@ -9,7 +9,7 @@ Weapon Proficiencies:
 
 Path of the Mage: Spellsword
 
-Adapted from https://www.dandwiki.com/wiki/spellsword_(5e_Class)
+
 
 ### Class Features
 
@@ -19,9 +19,9 @@ Hit Points
 
 Hit Dice: 1d10 per Spellsword level
 
-Hit Points at 1st Level: 10 + [Constitution](https://www.dandwiki.com/wiki/5e_SRD:Constitution) modifier
+Hit Points at 1st Level: 10 + Constitution modifier
 
-Hit Points at Higher Levels: 1d10 (or 6) + [Constitution](https://www.dandwiki.com/wiki/5e_SRD:Constitution) modifier per spellsword level after 1st
+Hit Points at Higher Levels: 1d10 (or 6) + Constitution modifier per spellsword level after 1st
 
 Proficiencies
 
@@ -54,31 +54,31 @@ You start with the following equipment, in addition to the equipment granted by 
 |1st|+2|—|Archetype, Spellcasting|2|2|1|1st|
 |2nd|+2|1d4|Arcane Blade,|2|3|2|1st|
 |3rd|+2|1d4|Fighting Style, Charged Blade|2|4|2|2nd|
-|4th|+2|1d4|[Ability Score Improvement](https://www.dandwiki.com/wiki/Spellblade_\(5e_Class\)#Ability_Score_Increase)|3|5|2|2nd|
+|4th|+2|1d4|Ability Score Improvement#Ability_Score_Increase)|3|5|2|2nd|
 |5th|+3|1d6|Extra Attack|3|6|2|3rd|
 |6th|+3|1d6|Archetype Feature|3|7|2|3rd|
 |7th|+3|1d6|—|3|8|2|4th|
-|8th|+3|1d6|[Ability Score Improvement](https://www.dandwiki.com/wiki/Spellblade_\(5e_Class\)#Ability_Score_Increase)|3|9|2|4th|
+|8th|+3|1d6|Ability Score Improvement#Ability_Score_Increase)|3|9|2|4th|
 |9th|+4|1d8|—|3|10|2|5th|
 |10th|+4|1d8|Elemental Adept|4|10|2|5th|
 |11th|+4|1d8|Archetype Feature|4|11|3|5th|
-|12th|+4|1d8|[Ability Score Improvement](https://www.dandwiki.com/wiki/Spellblade_\(5e_Class\)#Ability_Score_Increase)|4|11|3|5th|
+|12th|+4|1d8|Ability Score Improvement#Ability_Score_Increase)|4|11|3|5th|
 |13th|+5|1d8|—|4|12|3|5th|
 |14th|+5|1d8|Archetype Feature|4|12|3|5th|
 |15th|+5|1d10|Arcane Versatility|4|13|3|5th|
-|16th|+5|1d10|[Ability Score Improvement](https://www.dandwiki.com/wiki/Spellblade_\(5e_Class\)#Ability_Score_Increase)|4|13|3|5th|
+|16th|+5|1d10|Ability Score Improvement#Ability_Score_Increase)|4|13|3|5th|
 |17th|+6|1d10|—|4|14|4|5th|
 |18th|+6|1d10|Archetype Feature|4|14|4|5th|
-|19th|+6|1d10|[Ability Score Improvement](https://www.dandwiki.com/wiki/Spellblade_\(5e_Class\)#Ability_Score_Increase)|4|15|4|5th|
+|19th|+6|1d10|Ability Score Improvement#Ability_Score_Increase)|4|15|4|5th|
 |20th|+6|2d6|Archetype Feature|4|15|4|5th|
 
-### Class Features[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=3)]
+### Class Features
 
-#### Archetype[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=4)]
+#### Archetype
 
 At 1st level, choose an archetype, either Blademaster or Magister. You gain features from your chosen archetype at levels 2, 6, 11, 14, 18 and 20. These Archetypes are detailed at the end of this chapter.
 
-#### Spellcasting[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=5)]
+#### Spellcasting
 
 You draw your magics straight from the ether, limiting your pull until you have had a rest.
 
@@ -91,7 +91,7 @@ You draw your magics straight from the ether, limiting your pull until you have 
 - Learning Spells of 1st level and Higher. Each time you gain a spellsword level you can learn additional spells of your chosen school, as shown on the Spells Known column of the spellsword table above. Each of these spells must be of a level for which you have spell slots, as shown on the spellsword level.
     
 
-- Spellcasting Ability. [Charisma](https://www.dandwiki.com/wiki/5e_SRD:Charisma) is your spellcasting ability for your spellsword spells, as your hours of dedication to martial magic has allowed you to learn the movements in using your spells. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a spellsword spell you cast and when making an attack roll with one.
+- Spellcasting Ability. Charisma is your spellcasting ability for your spellsword spells, as your hours of dedication to martial magic has allowed you to learn the movements in using your spells. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a spellsword spell you cast and when making an attack roll with one.
     
 
 - Spell save DC = 8 + your proficiency bonus + your Charisma modifier
@@ -99,14 +99,13 @@ You draw your magics straight from the ether, limiting your pull until you have 
 - Spell attack modifier = your proficiency bonus + your Charisma modifier
     
 
-
-#### Arcane Blade[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=6)]
+#### Arcane Blade
 
 You've trained to enhance your weapon with magical energy. Starting at 2nd level When you take a long rest you can choose to use an hour to perform a ritual upon one weapon and imbue it with an element of your choosing acid, cold, fire, or lightning. Whenever you hit with a weapon attack using that weapon you deal an extra 1d4 of damage of the chosen element. The amount of this damage increases as you gain levels in this class, as shown in the Arcane Blade column of the spellsword table. This weapon is bound to you and when you will it goes to a pocket dimension. You can pull these weapons from this pocket dimension as a bonus action. You can bind up to 3 weapons in this way.
 
 Additionally, you must choose a school of magic to specialize in.
 
-#### Fighting Style[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=7)]
+#### Fighting Style
 
 At 3rd Level, the spellsword selects one of the following fighting style options:
 
@@ -118,31 +117,29 @@ Two Weapon Fighting: When you engage in two weapon fighting, you can add your ab
 
 Defense: While you are wearing armor, you gain a +1 bonus to AC.
 
-#### Charge Blade[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=8)]
+#### Charge Blade
 
 Your training with magic in and out of combat has taught you the ability to channel spells through your sword. You may now cast spells without the somatic gestures.
 
-#### Ability Score Increase[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=9)]
+#### Ability Score Increase
 
 When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-#### Extra Attack[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=10)]
+#### Extra Attack
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the attack action on your turn.
 
-
-
-#### Elemental Adept[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=11)]
+#### Elemental Adept
 
 Starting at 10th level you deal full damage whenever you damage a creature who is resistant to an element if it is the element that you have a weapon imbued with using your Arcane Blade class feature.
 
-#### Arcane Versatility[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=12)]
+#### Arcane Versatility
 
 With all the arcane energy you are able to channel you have learned to change the element of your Arcane Blade even more. You may now change your damage type to Necrotic or Radiant.
 
-### Archetypes[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=13)]
+### Archetypes
 
-#### Blademaster[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=14)]
+#### Blademaster
 
 A Blademaster focuses most on attacking in combat, dealing damage with their weapons.
 
@@ -160,7 +157,7 @@ At 20th level, the damage of the Arcane blade class feature increases from 2d6 t
 
   
 
-#### Magister[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=15)]
+#### Magister
 
 A magister focuses more on their spells than other spellswords, able to cast more and greater spells than other spellswords
 

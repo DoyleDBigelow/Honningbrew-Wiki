@@ -6,7 +6,6 @@ Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
 
-
 Path of the Warrior: Soldier
 
 Adapted from default Fighter, needs to be combed for incorrect use of words "soldier" and "fighter"

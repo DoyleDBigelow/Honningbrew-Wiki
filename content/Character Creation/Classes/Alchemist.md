@@ -36,9 +36,6 @@ Class-related Content
 | 19    | ASI                              | 14             | 38                 |
 | 20    |                                  | 14             | 38                 |
 
-
-
-
 | Required Level | Potion Recipe                                                                                                                                                                                                                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1              | Poison of Fatigue: Applies one stage of exhaustion to the drinker/target to a max of 3. One stack wears off every two hours, unless the afflicted long rests.                                                                                                                                                             |
@@ -71,10 +68,6 @@ Class-related Content
 | 16             |                                                                                                                                                                                                                                                                                                                           |
 | 19             |                                                                                                                                                                                                                                                                                                                           |
 | 19             |                                                                                                                                                                                                                                                                                                                           |
-
-
-
-
 
 **Level 1:**
 *Bottle Cantrips* - You can use the cantrip [[Alchemist's Best Friend]] to sculpt bottles, phials, and other glassware from sand or dirt. When inspected, the glassware is of moderate quality.
