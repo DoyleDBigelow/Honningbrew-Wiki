@@ -70,9 +70,11 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
+    options:
+      collapseByDefault: true
     order: 50
     layout:
-      position: right
+      position: beforeBody
       priority: 30
   - source: github:quartz-community/crawl-links
     enabled: true
@@ -128,6 +130,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      folderClickBehavior: collapse
     layout:
       position: left
       priority: 50
@@ -222,7 +226,6 @@ plugins:
       includedProperties:
         - description
         - tags
-        - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
