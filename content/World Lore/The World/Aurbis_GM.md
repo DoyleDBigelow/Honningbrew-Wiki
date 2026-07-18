@@ -1,0 +1,2 @@
+## DM Notes
+If the towers were to collapse the Mundas would collapse, as it's the thing that gives form to the Aurbis, would collapse the Aurbis as well, essentially resetting the calpa and returning everything to the primordial Aurbis. (Kind of Evangelion style where everything merges back into Anu and Padme). I believe this is what Alduin's job actually was, to collapse the towers and reset the calpa so that the gods may try again and not fall for Lohrkahn's tricks.

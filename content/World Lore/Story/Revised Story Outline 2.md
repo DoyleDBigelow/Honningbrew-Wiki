@@ -27,7 +27,7 @@ Players bargain with Hermaeus Mora, trading an Elder Scroll for the location/pat
 ### The Recovery
 Deep within the City, the players find the Clockwork Heart along with Sunder and Keening.
 **==Sunder and Keening last seen in skyrim==**
-**DM KNOWLEDGE**: While the players know the Heart is a legendary power source, they aren't told it’s being used to fuel the Numidium specifically—just that it’s the "New Engine" for the world.
+
 
 # Act 3: The Siege of Adamantine (The False Climax)
 ### The Holdout
