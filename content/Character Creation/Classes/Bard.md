@@ -6,7 +6,6 @@ Saving Throws:
 Armor Proficiencies:
 Weapon Proficiencies:
 
-**
 
 The Path of the Thief: Bard
 
@@ -154,7 +153,6 @@ At 6th level, you learn two ancient songs of your choice.The chosen songs count 
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
 
-##   
 
 ## College of Valor [Edit](http://engl393-dnd5th.wikia.com/wiki/Bard?action=edit&section=20)
 
@@ -175,5 +173,3 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 ### Battle Song [Edit](http://engl393-dnd5th.wikia.com/wiki/Bard?action=edit&section=24)
 
 At 14th level, you have mastered the art of weaving music and weapon use into a single harmonious act. When you use your action to play a song, you can make one weapon attack as a bonus action.
-
-**

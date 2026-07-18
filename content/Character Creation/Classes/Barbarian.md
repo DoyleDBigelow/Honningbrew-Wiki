@@ -6,7 +6,6 @@ Saving Throws: Strength, Constitution
 Armor Proficiencies: Light, Medium, Shields
 Weapon Proficiencies: Simple weapons, Martial Weapons
 
-**
 
 Path of the Warrior: Barbarian
 
@@ -280,5 +279,3 @@ Stealth: Disadvantage
   
 
 Weight: 45 pounds
-
-**

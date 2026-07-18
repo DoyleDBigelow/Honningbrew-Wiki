@@ -8,7 +8,6 @@ Tool Proficiencies:
 Weapon Proficiencies:
 
 
-**
 
 Path of the Thief: Hunter
 
@@ -179,9 +178,7 @@ Starting at 3rd level, you gain the following benefits:
 
 At 6th level, you gain the ability to enchant your ranged weapon with elemental damage. You can enchant your ranged weapon with an element of your choice: fire, cold, lightning, acid, or thunder. While enchanted your shots deal additional elemental damage equal to your Intelligence modifier (min.1). You can only have one ranged weapon enchanted at a time and every bolt fired from it becomes elementally charged. You can spend time during a short or long rest to change the elemental damage type your ranged weapon is enchanted with, or which ranged weapon is enchanted.
 
-####   
 
-####   
 
 #### Rapid Force Fire[[edit](https://www.dandwiki.com/w/index.php?title=Archer_\(5e_Class\)&action=edit&section=27)]
 
@@ -275,5 +272,3 @@ These conditions can be ended if the arrow(s) are removed and the target regains
 #### Headshot[[edit](https://www.dandwiki.com/w/index.php?title=Archer_\(5e_Class\)&action=edit&section=41)]
 
 When you reach level 18, you can attempt to make a deadly head shot against an enemy. You must use your action to make a head shot. On a successful attack roll with a ranged weapon, you roll an additional 1d6 of damage for every point of difference between your total attack and the targets AC. On a critical hit you roll your normal damage die and all d6's twice. You may use this ability a number of times per day equal to your Dexterity modifier. For example you make an attack with a longbow and roll a 10. At level 18 you have a proficiency bonus of +6 and assuming a Dexterity modifier of +5 your total for your attack roll is 10+6+5=21. If your target has an AC of 16 with an attack of 21 you have a total difference of 5 (21-16=5). For damage you would then roll your normal 1d10 (overdraw feature) as well as 5d6s for the bonus head shot damage.
-
-**

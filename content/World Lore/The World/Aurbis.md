@@ -11,4 +11,3 @@ This chaos was only given structure through the creation of Mundus, the mortal p
 - **The Spokes:** The Eight Aedra, who sacrificed their infinite nature to become the structural supports of this new reality.
 - **The Spaces:** The sixteen voids of Oblivion, trapped between the spokes of Aedric law.
 By creating the Hub, the Aedra provided the "IS" to the "MAYBE." They anchored reality using the Towers—metaphysical and physical pins like the Adamantine Tower—to ensure that the Aurbis could no longer return to its original, chaotic overlap.
-![[TESWheel.webp]]

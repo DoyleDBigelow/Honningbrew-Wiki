@@ -7,7 +7,6 @@ Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
 
-**
 
 Path of the Thief: Rogue
 
@@ -178,4 +177,3 @@ Elegant Maneuver Starting at 13th level, you can use a bonus action on your turn
 
 Master Duelist Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.
 
-**

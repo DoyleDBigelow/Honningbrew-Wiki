@@ -6,7 +6,6 @@ Saving Throws:
 Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
-**
 
 Path of the Mage: Spellsword
 
@@ -100,7 +99,6 @@ You draw your magics straight from the ether, limiting your pull until you have 
 - Spell attack modifier = your proficiency bonus + your Charisma modifier
     
 
-####   
 
 #### Arcane Blade[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=6)]
 
@@ -132,9 +130,7 @@ When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can i
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the attack action on your turn.
 
-####   
 
-####   
 
 #### Elemental Adept[[edit](https://www.dandwiki.com/w/index.php?title=Spellblade_\(5e_Class\)&action=edit&section=11)]
 
@@ -179,5 +175,3 @@ Beginning at 14th level, the Magister has two more spell slots.
 Beginning at 18th level, the Magister may learn 2 more spells from another school. These spells must be of a level the Magister can cast.
 
 At 20th level, the Magister may learn 2 sixth level spells. The Magister's spells slots go up to level 6 instead of 5. The Magister also gains one additional spell slot.
-
-**

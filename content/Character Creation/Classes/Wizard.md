@@ -7,7 +7,6 @@ Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
 
-**
 
 Path of the Mage: Wizard
 
@@ -72,7 +71,6 @@ Saving Throws: Intelligence, Wisdom
 
 Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
-####   
 
 #### Equipment [Edit](http://engl393-dnd5th.wikia.com/wiki/Wizard?action=edit&section=11)
 
@@ -151,4 +149,3 @@ By spending 8 hours in study, you can exchange one or both of the spells you cho
 
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd—level wizard spells in your spellbook as your signature spells. You can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-**

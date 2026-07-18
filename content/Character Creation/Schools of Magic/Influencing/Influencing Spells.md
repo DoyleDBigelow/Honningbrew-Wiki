@@ -32,5 +32,3 @@
 |9th|Suicidal Thoughts|You charm one creature you can see within range to commit suicide on the spot. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.|
 
 
-
-**

@@ -6,7 +6,6 @@ Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
 
-**
 
 Path of the Warrior: Soldier
 
@@ -309,5 +308,3 @@ At level 15, you can teleport up to 30 feet to a space you can see when using yo
 #### Improved War Magic 
 
 At level 18, you can make one weapon attack as a bonus action whenever you use your action to cast a spell.
-
-**

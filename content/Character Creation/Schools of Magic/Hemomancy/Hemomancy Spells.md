@@ -1,4 +1,3 @@
-**
 
 |   |   |   |
 |---|---|---|
@@ -39,5 +38,3 @@
 |9th|Blood of the Earth|You kill all life around you, healing you and your party to full HP. This spell can only be cast outside.|
 
 
-
-**

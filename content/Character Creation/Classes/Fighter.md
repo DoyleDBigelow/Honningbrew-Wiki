@@ -7,7 +7,6 @@ Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
 
-**
 
 Path of the Warrior: Fighter
 
@@ -129,7 +128,6 @@ When you reach 4th level, and again at 6th, 8th, 12th, 16th and 19th level, you 
 
 At 4th level you can draw energy from deep inside, using an action you can heal one hit die + Your Bone Breaker level while in combat. You can only do this once per long rest. You spend one of your normal 3 hit dies by using this action.
 
-###   
 
 ### Extra Attack[[edit](https://www.dandwiki.com/w/index.php?title=Bone_breaker_\(5e_Class\)&action=edit&section=13)]
 
@@ -159,9 +157,7 @@ At 13th level you have trained to gain the ability to redirect attacks. You have
 
 Stance Of Redirection: When used, the next melee attack used against you automatically hits and you can use the enemy's momentum against them and lessen the damage from the attack, by rolling 1d12 + dexterity or strength modifier + Bone Breaker level, if you lessen the damage to under 0 you can throw them a distance equal to the amount of the space in between your roll and the damage of the attack. If the creature hits an object that isn't the floor the creature takes 1d6 per 5ft thrown, e,g if a creature rolls a 20 for damage and you roll a 7 on the d12 and you level is 13 and your dexterity modifier is +5, that totals to 25, so you can throw the creature 5ft and if the creature hits a wall during the throw it would take 1d6 damage. You can only use this on a creature that is your size or smaller.
 
-###   
 
-###   
 
 ### Hell Hound's Hunger[[edit](https://www.dandwiki.com/w/index.php?title=Bone_breaker_\(5e_Class\)&action=edit&section=19)]
 
@@ -191,7 +187,6 @@ At 17th level you have the strength and rage brimming within you. You gain acces
 
 Stance Of The Dragon: when used, for the next minute, you gain the ability to (for 2 rounds) do 4D20 dmg with your Fist attack, and you gain a bonus to AC equals to your strength modifier + your proficiency bonus. Also when this is active your Fist attacks don't have a penalty to damage rolls. When this effect ends, you take 1 points of exhaustion.
 
-##   
 
 ## Kickboxer[[edit](https://www.dandwiki.com/w/index.php?title=Bone_breaker_\(5e_Class\)&action=edit&section=26)]
 
@@ -221,4 +216,3 @@ At 17th level your power and speed have increased to that of which is not of thi
 
 Stance Of The Hydra: when used for the next minute you can move twice your movement speed and your Kicks deal maximum damage, also when this is active your Kick attacks don't have a penalty to attack rolls, and the DC for the Drop Kick and Bicycle Kick lowers by 2. When you finish doing this you gain 1 point of exhaustion.
 
-**

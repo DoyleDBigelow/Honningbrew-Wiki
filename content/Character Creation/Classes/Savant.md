@@ -7,7 +7,6 @@ Armor Proficiencies:
 Tool Proficiencies:
 Weapon Proficiencies:
 
-**
 
 Path of the Mage: Savant
 
@@ -138,4 +137,3 @@ SORCEROUS RESTORATION
 
 At 20th level, you can draw on your reserve of mystical power to regain expended spell slots. You can spend 10 minutes meditating to regain half of your expended spell slots, rounding up. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
 
-**

@@ -1,5 +1,5 @@
 # The Lesser Aedra
-The **Ehlnofey** (Ehlnofex for "Earth Bones") are the collective of lesser [[Aedra|Aedric Spirits]] who remained on [[Mundus]] after the [[Magna Ge]] fled and the Eight [[Divines]] established the Spokes of [[Aurbis|The Wheel]]. While the [[Divines]] maintained their celestial individuality, the [[Ehlnofey]] stayed to inhabit the world, becoming the "substance" of the mortal plane.
+The **Ehlnofey** (Ehlnofex for "Earth Bones") are the collective of lesser [[Aedra|Aedric Spirits]] who remained on [[Mundus]] after the [[Magne Ge]] fled and the Eight [[Divines]] established the Spokes of [[Aurbis|The Wheel]]. While the [[Divines]] maintained their celestial individuality, the Ehlnofey stayed to inhabit the world, becoming the "substance" of the mortal plane.
 
 ## The Aedric Superset
 In the literalist cosmology, the Ehlnofey represent the **Aedric Residue**. They are the spirits who were too involved in the "project" to leave, but not powerful enough to remain as infinite celestial bodies. Over time, this superset fractured into two distinct paths:
