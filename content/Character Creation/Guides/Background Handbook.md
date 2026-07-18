@@ -1,0 +1,13 @@
+[[Adventurer]]
+[[Afflicted]]
+[[Exiled Noble]]
+[[Farmer]]
+[[Fletcher]]
+[[Fishermen]]
+[[Gladiator]] 
+[[Guard]]
+[[Merchant]]
+[[Scholar]]
+[[Tradesmen]]
+[[Orphan]]
+

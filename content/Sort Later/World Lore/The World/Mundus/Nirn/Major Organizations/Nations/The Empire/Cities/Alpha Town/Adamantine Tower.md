@@ -1,0 +1,1 @@
+Located in: [Alpha Town], down the road is [[Alpha Fort]].

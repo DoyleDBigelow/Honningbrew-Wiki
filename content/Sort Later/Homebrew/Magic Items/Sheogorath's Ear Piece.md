@@ -1,0 +1,33 @@
+Traditionally, a magical ear piece that allows the user to speak over long distances, but not through dimensions with users paired to the same magical frequency. However, to use the ear piece the user must succeed on a [[Flat]] D20 check with a [[DC]] of 1. Should the user fail they will suddenly lose complete control of their facial/vocal muscles as the God of Madness takes over their body for a moment. See paragraph below.
+
+You failed the roll: 
+You, the player will be forced to boldly exclaim an option from the table below. Please roll a d20.
+Your character will then be vocally paralyzed for a short moment, allowing madness to creep in. You will not be able to talk for about half a minute as you regain control of your numb face.
+
+| Roll Result (d20) | Outcome Phrase                                                                                                                                                                                                                                  |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                 | *"Unworthy, unworthy, unworthy! Useless mortal meat. Walking bag of dung!"*                                                                                                                                                                     |
+| 2                 | *"Time to save the Realm! Rescue the damsel! Slay the beast! Or die trying. Your help is required."*                                                                                                                                            |
+| 3                 | *"Daedra are the embodiment of change. Change and permanency. I'm no different, except in the ways that I am."*                                                                                                                                 |
+| 4                 |                                                                                                                                                                                                                                                 |
+| 5                 |                                                                                                                                                                                                                                                 |
+| 6                 |                                                                                                                                                                                                                                                 |
+| 7                 |                                                                                                                                                                                                                                                 |
+| 8                 |                                                                                                                                                                                                                                                 |
+| 9                 | *"The game is a foot. Or a leg. Or all manner of severed limbs!"*                                                                                                                                                                               |
+| 10                | *"Catch? Such an untrusting soul. If there were a catch, I'd say it's that two of my guests are murderous cannibals."*                                                                                                                          |
+| 11                | *"No need to worry your pretty mortal head. The Wabbajack, it unleashes the potential in everyone. The unrecognized essence of artistic beauty that swells and beats within the Look, you want the book? Whack some folks with the Wabbajack."* |
+| 12                | *I should make you run a gauntlet of angry Argonian concubines!*                                                                                                                                                                                |
+| 13                |                                                                                                                                                                                                                                                 |
+| 14                |                                                                                                                                                                                                                                                 |
+| 15                |                                                                                                                                                                                                                                                 |
+| 16                |                                                                                                                                                                                                                                                 |
+| 17                |                                                                                                                                                                                                                                                 |
+| 18                |                                                                                                                                                                                                                                                 |
+| 19                | `Doyle add your text here`                                                                                                                                                                                                                      |
+| 20                | You may search for any Sheogorath quote you like. If you do not have one your phrase is: *"So, which is it? What will it be? Mania? Dementia? The suspense is killing me. Or you, if I have to keep waiting."*                                  |
+*1-5 are Oblivion quotes.
+6-8 are Morrowind quotes.
+9-12 are Online quotes.
+13-18 are Skyrim quotes.
+19 is Doyle's Favorite*

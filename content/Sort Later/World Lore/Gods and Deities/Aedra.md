@@ -1,0 +1,1 @@
+A group of beings that gave up their lives to give birth to the planets and world. They still majorly influence events in the world of [[Nirn]]. Also known as The Dead Gods (Daggerfell), and The Mortal Gods (ESO).

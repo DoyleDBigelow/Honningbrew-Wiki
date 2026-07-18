@@ -1,0 +1,3 @@
+Characters born under this Birthsign have the following adjustments:
+- *Serpent Glare*: Once per day, you may glare into the eyes of a living creature to paralyze it (Wisdom DC 15) for 6 seconds (this would be an entire round of combat). If the paralyzed creature is unharmed during this period, they will have no idea they were under the effects of the Serpent.
+- The Serpent glare may be ended prematurely as the effect successfully lands, to deal 20 points of poison damage to the afflicted.

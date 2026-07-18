@@ -1,0 +1,2 @@
+Characters born under this Birthsign have the following adjustments:
+- *Shadowmaker* - You may use this ability once per long rest to grant advantage on all stealth checks by you, and disadvantage on all checks to perceive you for 60 seconds. However, interacting with anything over 5lbs will cancel this effect.

@@ -1,0 +1,1 @@
+An artistic/spiritual understanding of the galaxy of [[The Elder Scrolls (Game)]]. The entire galaxy is encased in the [[Oblivion]] Plane which is encased in the [[Aetherius]] plane. Describing this without an image is actual torture I would just look it up if you want to see it. To end Mundus would be to end all life as we know it.

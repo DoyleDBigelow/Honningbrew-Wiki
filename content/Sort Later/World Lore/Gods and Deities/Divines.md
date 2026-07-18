@@ -1,0 +1,13 @@
+In the literal cosmology of the [[Aurbis]], the Divines are the eight most powerful [[Aedra]] who committed to Lorkhan’s plan. While thousands of lesser spirits participated in the creation of [[Mundus]], the Divines occupy a unique metaphysical tier. They are the Gift-Limbs—the primary anchors that forced the chaotic overlap of [[Anu and Padomay]] into the stable geometry of the Wheel.
+# The Eight Spokes
+When [[Mundus]] was formed, these eight spirits gave of their own essence to create the "Spokes" of reality.
+- **Metaphysical Function:** They serve as the structural supports that connect the Hub (the mortal plane) to the Rim (the infinite light of [[Aetherius]]).
+- **The Voids:** By establishing these eight rigid pillars of Law, they created the sixteen "spaces" between them, which became the voids of [[Oblivion]].
+- **Celestial Presence:** To mortal eyes, the "bodies" of the Divines are perceived as the Planets in the night sky. These are not mere rocks in space, but the infinite mass of the gods themselves, appearing as spheres only because the mortal mind cannot comprehend their true, infinite scale.
+# The Spindle of the Hub
+The Divines finalized their work at the Convention at the [[Adamantine Tower]]. By decreeing the laws of linear time (led by Akatosh), they effectively "turned" the [[Aurbis]] into the Wheel. Without these eight specific spirits acting as the Spokes, the Hub of [[Mundus]] would have no connection to the divine source of [[Aetherius]], and the mortal plane would have collapsed back into the chaotic "Gray Maybe."
+
+[!TIP] Obsidian Note: The Spoke-Divine Mapping
+While human and elven cultures argue over the names (Auri-El vs. Akatosh, Stendarr vs. Stuhn), the metaphysical Spoke remains the same constant. There are always eight, for eight is the number of the Spokes required to balance the sixteen voids of [[Oblivion]].
+# The Mortal Connection: Worship and Influence
+For the inhabitants of [[Mundus]], these cosmic anchors are far more than distant celestial bodies; they are the font of all moral and physical law. Worship of the Eight is a fundamental act of aligning one's mortal spirit with the Stasis the [[Aedra]] provided during the Dawn. While the Divines are "comatose" in a literal sense—lacking the wandering agency of the [[Daedra|Daedric Princes]]—they remain the most present forces in mortal life. Their influence bleeds into reality through the "divine spark" within all living things, manifesting as answered prayers, miraculous healings, and the preservation of the seasons. To a mortal, petitioning a Divine is not just an ask for a favor; it is an appeal to the very "Order" that prevents their soul from dissolving back into the chaotic "Maybe" of the [[Aurbis]].

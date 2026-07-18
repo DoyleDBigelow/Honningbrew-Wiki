@@ -1,0 +1,1 @@
+A term used as slang for "A roll with a die or dice without ANY modifers. Just what it says on the die/dice."

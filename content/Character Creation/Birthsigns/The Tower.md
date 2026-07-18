@@ -1,0 +1,3 @@
+Characters born under this Birthsign have the following adjustments:
+- *The Master's Hand* - Once per day, snap your fingers and a lock bothering you is no more. The DM may exclusively veto this ability from working on a lock for any reason (usually a story or plot reason), it will be refunded to you if that is the case.
+- Alternate Option: *Warden Key* - Sometimes when you check a door and it seems like it's locked simply trying the door opens it for you. Does not work on Arcane Locks, or other seals placed by spells.

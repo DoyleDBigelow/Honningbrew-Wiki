@@ -1,0 +1,1 @@
+Shorthand for "Ability Score Improvement", refers to an item, skill, or feature that raises one of your core six stats (Str, Dex, Con, Int, Wis, Cha).

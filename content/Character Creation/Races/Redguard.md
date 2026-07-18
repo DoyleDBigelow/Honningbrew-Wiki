@@ -1,0 +1,39 @@
+# Redguards
+
+*“Let the Elves boast of their ancient spells and the Nords of their brute strength. A Redguard needs only a perfectly balanced scimitar, a steady hand, and the burning fire of the Yokudan spirit to conquer any foe on the face of Tamriel.”*
+— *Captain Nazeem, Alik'r Vanguard*
+
+Hailing from the vast, sun-bleached deserts and treacherous canyons of Hammerfell, the Redguards are widely regarded as the most naturally talented, disciplined warriors in Tamriel. Unlike the Nords, Bretons, or Imperials, the Redguards share no ancestral blood with the other human races of Tamriel, tracing their lineage entirely back to the lost western continent of Yokuda. They are a fiercely independent, proud people who value honor, martial mastery, and physical prowess above all else. Whether operating as elite desert scouts, peerless duelists, or wandering mercenaries, a Redguard in battle is a spectacle of fluid lethality and unstoppable stamina.
+
+> [!info] The Sunken Homeland and the Conquest of Hammerfell
+> Centuries ago, the ancient continent of Yokuda was completely destroyed and submerged beneath the sea by unknown, cataclysmic means. The survivors, a warrior class known as the Ra Gada, sailed eastward and landed upon the brutal, unforgiving shores of Deathland—now known as Hammerfell. The region was teeming with hostile, monstrous adversaries, from giant scorpions and dune-rippers to massive, territorial beasts. In a legendary testament to their martial perfection, the Redguards waged a relentless war of conquest, completely taming one of the most hostile environments in Tamriel and establishing a powerful, enduring empire built on the foundations of blade and sand.
+
+### The Blade-Singers' Legacy
+Redguard culture is deeply shaped by their historical martial traditions, most notably the legacy of the Ansei, or "Blade-Singers," who could manifest swords out of their very souls. Because of their history with destructive magic back in Yokuda, modern Redguards view traditional spellcasting with extreme suspicion and distaste, placing their faith instead in the tangible perfection of steel, physical conditioning, and tactical maneuvers. They are highly adaptable, possessing a unique, inner reservoir of focus that allows them to push their bodies beyond normal mortal limits when the threat of death is near.
+
+### Names & Culture
+Redguard names are highly individualistic, but they frequently incorporate specific, traditional prefixes to establish their lineage, family ties, or geographic origin.
+* **at-** denotes a direct descendant of a specific ancestor.
+* **af-** denotes a relative (such as a niece, nephew, or cousin).
+* **al-** denotes the specific town, city, or province they come from.
+* **Naming Conventions:** [UESP Redguard Names Reference](https://en.uesp.net/wiki/Lore:Redguard_Names)
+
+### Redguard Traits
+As a Redguard, you have the following racial traits:
+* **Creature Type.** You are a Humanoid.
+* **Size.** You are Medium. Redguards possess dark skin, wiry hair, and athletic frames, standing at a typical human height between 5'6" and 6'2" feet tall.
+* **Speed.** Your base walking speed is 30 feet.
+* **Languages.** You can speak, read, and write Common and Yoku.
+
+### Redguard Racial Features
+| Trait                   | tl;dr                                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                     |                                     |
+| :---------------------- | :-------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **ASI**                 | +2 Strength, +1 Dexterity                                 | Your Strength score increases by 2, and your Dexterity score increases by 1.                                                                                                                                                                                                                                                                                                                                           |                                                                                                     |                                     |
+| **Adrenaline Rush**     | Initiative advantage<br>First Round Combat Buff           | Your blood flows quickest in the thick of combat. You have advantage on initiative rolls. After rolling for initiative, you gain temporary hit points equal to 1d4 + your Constitution modifier, and your melee attacks deal additional damage equal to your level during the first round of combat. At higher levels, the temporary hit point die increases: 2nd level (1d8), 3rd level (1d12), and 5th level (1d20). |                                                                                                     |                                     |
+| **Desert Fortitude**    | Survival proficiency                                      | You gain proficiency in the Survival skill.                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                     |                                     |
+| **Redguard Resilience** | Poison [[Resistance                                       | resistance]]<br>Poison saving throw advantage                                                                                                                                                                                                                                                                                                                                                                          | Your Redguard blood grants you advantage on saving throws against poison, and you have [[Resistance | resistance]] against poison damage. |
+| **Combat Training**     | Light Armor proficiency<br>Two Martial Weapon proficiency | You gain proficiency with light armor and two martial weapons of your choice.                                                                                                                                                                                                                                                                                                                                          |                                                                                                     |                                     |
+
+### Available Feats
+* Human Determination
+* Offensive Maneuver

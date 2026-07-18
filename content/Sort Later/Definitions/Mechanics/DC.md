@@ -1,0 +1,1 @@
+An acronym meaning "difficulty class". Usually representing a type of challenge your character would need to roll a d20 to resolve. If you score higher than, or tie the DC you "beat" it.

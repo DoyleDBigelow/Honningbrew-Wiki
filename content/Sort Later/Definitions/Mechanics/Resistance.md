@@ -1,0 +1,1 @@
+A technical term meant to describe that your character will take half damage from sources of this elemental/magical/physical/mental type.

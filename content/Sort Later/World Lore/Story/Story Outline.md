@@ -1,0 +1,32 @@
+- [[Thalmor|Thalmor]] seek to undo Mundas by destroying the towers.
+- [[Party|party]] gets involved but must fail (i.e. while protecting 1 tower another is destroyed and is enough to start destabilizing mundas)
+- after saving [[Adamantine Tower|adamantine tower]] [[Psijic Order|psijic order]] appears to [[Party|party]] asking for their help
+- the [[Psijic Order|psijic order]] have a plan to restore Mundas via drastic measures and extremely powerful artifacts. The goal is to restore the full power of the [[Aedra|Aedra]] and then the towers will no longer be needed to maintain Mundas as the gods can do it directly.
+	[[Psijic Order|Psijic order]] may have eye and staff after Skyrim
+	- Clockwork Heart
+	- Staff and Eye of Magnus
+	- Sunder/Keening
+	- The [[Aedra|Aedric]] Artifacts
+	- Totem of Tiber Septum
+- To get clockwork heart have to go to [[Clockwork City|clockwork city]], to go to [[Clockwork City|clockwork city]] you must find out how, 
+	- how did you get there in Morrowind
+	- I know it's in quasi state so how locate or something as well
+	- how get there now after Morrowind dlc
+- to find [[Clockwork City|clockwork city]] will need to find it via hermaeus mora, via a information trade
+	- he will ask for a specific elder scroll in exchange
+- sunder and keening
+	- look at locations in Skyrim and Morrowind on inspiration on where to find
+- [[Aedra|Aedric]] Artifacts will require dedicated quest for each 
+	- some will be easier to find than others
+- during these the elves will drop more towers (times with players completing fetches for simplicity)
+- once second to last item is retrieved (leaving just the totem of Tiber Septum) the numidium appears from a time rift (setup to 5th era rending)
+- players are then informed by [[Psijic Order|psijic order]] things have happened as predicted and that the numidium is the last key to their puzzle 
+- with the reappearance of the numidium, the totem of Tiber Septum must be found expiditiously 
+- numidium is being powered by the heart the mcguffins are used as so
+	- kagrenaks tools are used to replace the heart of lorkahn with the clockwork heart (replaced for proper control or something not sure yet)
+		- could be needed to restore lohrkahn? Or could need heart as fuel for last part. Or just install both for the JUICE
+	- totem of tiber septum then allows for control of the numidium
+	- eye of Magnus installed in eye to be able to see and understand the magical architecture of Mundas
+	- staff used to modify the architecture
+	- [[Aedra|Aedric]] Artifacts used to connect to the [[Aedra|Aedra]] in the architecture and pull them out (restore their power)
+- all this concludes in the numidium slashing open a rift in the world or digging or something to access the divine formulas and gears of [[Nirn|Nirn]] (as described by love letter of 5th era) they are then able to rewrite the code of the world and restore the [[Aedra|Aedra]] and stabilize mundas

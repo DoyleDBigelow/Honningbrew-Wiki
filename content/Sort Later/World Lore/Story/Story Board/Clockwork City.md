@@ -1,0 +1,1 @@
+Sotha Sil was compelled to create the clockwork city. He wanted to finalize Tamriel's design, and heal the cracks.
