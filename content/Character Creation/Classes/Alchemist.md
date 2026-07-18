@@ -10,6 +10,7 @@ Skills: Choose 3: Acrobatics, Arcana, Insight, Investigation, Medicine, Nature, 
 
 For convenience: When using a sling to throw bottles at targets. You have a range of 30/120. 30ft is your effective range, where 120ft is the long range. When firing in the long range you have disadvantage on attack rolls. Bottles do 1d4 + Dexterity Mod damage when they break, then the potion splashed on the target seeps into the wounds. The roll to hit with a bottle is: d20 + Dexterity Mod + Proficiency Bonus (if you are proficient with the weapon)
 Your daily concoctions brew to a max limit every day, see table. You can obtain more potions by simply owning fewer potions. It's easiest to give them to party members, or even sell them.
+
 Class-related Content
 ---
 
@@ -48,26 +49,6 @@ Class-related Content
 | 4              | Potion of Cure Poison. Cures low and mid level poisons, but may not cure all poisons.                                                                                                                                                                                                                                     |
 | 4              | Potion of Cure Disease. Cures all diseases.                                                                                                                                                                                                                                                                               |
 | 4              | Oil of Slipperiness: Renders you or an object impossible to grapple or restrain. Lasts for 15 minutes.                                                                                                                                                                                                                    |
-| 7              |                                                                                                                                                                                                                                                                                                                           |
-| 7              |                                                                                                                                                                                                                                                                                                                           |
-| 7              |                                                                                                                                                                                                                                                                                                                           |
-| 8              |                                                                                                                                                                                                                                                                                                                           |
-| 8              |                                                                                                                                                                                                                                                                                                                           |
-| 10             |                                                                                                                                                                                                                                                                                                                           |
-| 10             |                                                                                                                                                                                                                                                                                                                           |
-| 12             |                                                                                                                                                                                                                                                                                                                           |
-| 12             |                                                                                                                                                                                                                                                                                                                           |
-| 12             |                                                                                                                                                                                                                                                                                                                           |
-| 14             |                                                                                                                                                                                                                                                                                                                           |
-| 14             |                                                                                                                                                                                                                                                                                                                           |
-| 14             |                                                                                                                                                                                                                                                                                                                           |
-| 14             |                                                                                                                                                                                                                                                                                                                           |
-| 14             |                                                                                                                                                                                                                                                                                                                           |
-| 16             |                                                                                                                                                                                                                                                                                                                           |
-| 16             |                                                                                                                                                                                                                                                                                                                           |
-| 16             |                                                                                                                                                                                                                                                                                                                           |
-| 19             |                                                                                                                                                                                                                                                                                                                           |
-| 19             |                                                                                                                                                                                                                                                                                                                           |
 
 **Level 1:**
 *Bottle Cantrips* - You can use the cantrip [[Alchemist's Best Friend]] to sculpt bottles, phials, and other glassware from sand or dirt. When inspected, the glassware is of moderate quality.
@@ -101,33 +82,3 @@ Dusk Sub-class: When a poison you are soulbound to deals damage to a target, you
 **Level 7:**
 *Brewmaster* - Potions you create now affect Undead, Constructs, and Astral creatures unless those creatures have immunities to that potions effect.
 
-Level 8:
-ASI- You can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score above 20 using this feature.
-SC
-
-Level 9:
-
-Level 10:
-
-Level 11:
-
-Level 12:
-ASI- You can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score above 20 using this feature.
-
-Level 13:
-
-Level 14:
-
-Level 15:
-
-Level 16:
-ASI- You can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score above 20 using this feature.
-
-Level 17:
-
-Level 18:
-
-Level 19:
-ASI- You can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score above 20 using this feature.
-
-Level 20:
