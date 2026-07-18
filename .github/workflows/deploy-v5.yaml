@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - v5     # Change this to v5 if your default branch is named v5
+      - v5
   workflow_dispatch:
 
 permissions:
@@ -31,6 +31,10 @@ jobs:
 
       - run: npm ci
 
+      # --- ADD THIS STEP TO GENERATE THE PLUGINS DIRECTORY ---
+      - name: Install Quartz plugins
+        run: npx quartz plugin install
+
       - name: Build Quartz
         run: npx quartz build
 
@@ -42,4 +46,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        
